@@ -1,0 +1,9 @@
+/* Tailwind and font  */
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+body {
+  overflow-x: hidden;
+}
