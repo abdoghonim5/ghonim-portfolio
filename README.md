@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-- [Portfolio Website](https://abdoghonim5.netlify.app/) <!-- Replace with your actual deployed link if different -->
+- [Portfolio Website](https://abdo-ghonim-portfolio.netlify.app/) <!-- Replace with your actual deployed link if different -->
 
 ## 📂 About the Project
 
